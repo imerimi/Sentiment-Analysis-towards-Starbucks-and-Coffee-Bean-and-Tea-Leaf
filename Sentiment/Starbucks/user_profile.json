@@ -1,0 +1,2266 @@
+
+Date: "18-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. \n\nNeed support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/dOlpzhHJcS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dOlpzhHJcS",
+                    "expanded_url": "http://sbux.co/givetogether",
+                    "display_url": "sbux.co/givetogether",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11319165,
+    "friends_count": 95221,
+    "listed_count": 27931,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19969,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 209369,
+    "lang": null,
+    "status": {
+        "created_at": "Wed Dec 18 02:58:39 +0000 2019",
+        "id": 1207133043950940160,
+        "id_str": "1207133043950940160",
+        "text": "@ZoeyDufour How thoughtful! \ud83d\ude0a\ud83d\udc9a",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ZoeyDufour",
+                    "name": "Z\ud83c\udf19",
+                    "id": 991013163847077893,
+                    "id_str": "991013163847077893",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1207121206194974722,
+        "in_reply_to_status_id_str": "1207121206194974722",
+        "in_reply_to_user_id": 991013163847077893,
+        "in_reply_to_user_id_str": "991013163847077893",
+        "in_reply_to_screen_name": "ZoeyDufour",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "19-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. \n\nNeed support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/dOlpzhHJcS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dOlpzhHJcS",
+                    "expanded_url": "http://sbux.co/givetogether",
+                    "display_url": "sbux.co/givetogether",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11318959,
+    "friends_count": 95218,
+    "listed_count": 27931,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19970,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 209525,
+    "lang": null,
+    "status": {
+        "created_at": "Thu Dec 19 11:45:54 +0000 2019",
+        "id": 1207628117478559744,
+        "id_str": "1207628117478559744",
+        "text": "@rachallegg Two holiday flavors in one sounds like the best party for your taste buds ever!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "rachallegg",
+                    "name": "Rachalleg",
+                    "id": 37348381,
+                    "id_str": "37348381",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1207489436847611904,
+        "in_reply_to_status_id_str": "1207489436847611904",
+        "in_reply_to_user_id": 37348381,
+        "in_reply_to_user_id_str": "37348381",
+        "in_reply_to_screen_name": "rachallegg",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "20-12-2019"
+
+Date: "20-12-2019"
+
+Date: "20-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. \n\nNeed support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/dOlpzhHJcS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dOlpzhHJcS",
+                    "expanded_url": "http://sbux.co/givetogether",
+                    "display_url": "sbux.co/givetogether",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11318842,
+    "friends_count": 95206,
+    "listed_count": 27930,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19981,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 209651,
+    "lang": null,
+    "status": {
+        "created_at": "Fri Dec 20 03:05:32 +0000 2019",
+        "id": 1207859550528761856,
+        "id_str": "1207859550528761856",
+        "text": "@JoelSwiftWWE Awesome!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JoelSwiftWWE",
+                    "name": "\u2744Joel\u2603\ufe0fFearless\u2603\ufe0fHuston\u2744",
+                    "id": 2866606878,
+                    "id_str": "2866606878",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1207853260557537281,
+        "in_reply_to_status_id_str": "1207853260557537281",
+        "in_reply_to_user_id": 2866606878,
+        "in_reply_to_user_id_str": "2866606878",
+        "in_reply_to_screen_name": "JoelSwiftWWE",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "21-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. \n\nNeed support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/dOlpzhHJcS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dOlpzhHJcS",
+                    "expanded_url": "http://sbux.co/givetogether",
+                    "display_url": "sbux.co/givetogether",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11318432,
+    "friends_count": 95203,
+    "listed_count": 27928,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19984,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 209765,
+    "lang": null,
+    "status": {
+        "created_at": "Sat Dec 21 02:25:26 +0000 2019",
+        "id": 1208211848673153024,
+        "id_str": "1208211848673153024",
+        "text": "@amyweird1 Aww! We're glad you like it.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "amyweird1",
+                    "name": "Amyys \ud83c\udf44",
+                    "id": 1145211082568425473,
+                    "id_str": "1145211082568425473",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1208128487137005568,
+        "in_reply_to_status_id_str": "1208128487137005568",
+        "in_reply_to_user_id": 1145211082568425473,
+        "in_reply_to_user_id_str": "1145211082568425473",
+        "in_reply_to_screen_name": "amyweird1",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "22-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. \n\nNeed support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/dOlpzhHJcS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dOlpzhHJcS",
+                    "expanded_url": "http://sbux.co/givetogether",
+                    "display_url": "sbux.co/givetogether",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11318120,
+    "friends_count": 95200,
+    "listed_count": 27923,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19983,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 209924,
+    "lang": null,
+    "status": {
+        "created_at": "Sun Dec 22 03:37:39 +0000 2019",
+        "id": 1208592408826408961,
+        "id_str": "1208592408826408961",
+        "text": "@Unfaded_Beauty2 So thoughtful! \ud83d\udc9a",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Unfaded_Beauty2",
+                    "name": "Jocie",
+                    "id": 499152328,
+                    "id_str": "499152328",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1208590136851812353,
+        "in_reply_to_status_id_str": "1208590136851812353",
+        "in_reply_to_user_id": 499152328,
+        "in_reply_to_user_id_str": "499152328",
+        "in_reply_to_screen_name": "Unfaded_Beauty2",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "23-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. \n\nNeed support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/dOlpzhHJcS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dOlpzhHJcS",
+                    "expanded_url": "http://sbux.co/givetogether",
+                    "display_url": "sbux.co/givetogether",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11317675,
+    "friends_count": 95202,
+    "listed_count": 27922,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19981,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210022,
+    "lang": null,
+    "status": {
+        "created_at": "Mon Dec 23 11:42:29 +0000 2019",
+        "id": 1209076807867064320,
+        "id_str": "1209076807867064320",
+        "text": "@OhhItsCort It's a delightful treat to kick off the holiday season!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "OhhItsCort",
+                    "name": "cort\u2655",
+                    "id": 223380276,
+                    "id_str": "223380276",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1208994485713027072,
+        "in_reply_to_status_id_str": "1208994485713027072",
+        "in_reply_to_user_id": 223380276,
+        "in_reply_to_user_id_str": "223380276",
+        "in_reply_to_screen_name": "OhhItsCort",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "24-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. \n\nNeed support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/dOlpzhHJcS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dOlpzhHJcS",
+                    "expanded_url": "http://sbux.co/givetogether",
+                    "display_url": "sbux.co/givetogether",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11317333,
+    "friends_count": 95194,
+    "listed_count": 27921,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19981,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210115,
+    "lang": null,
+    "status": {
+        "created_at": "Tue Dec 24 03:10:39 +0000 2019",
+        "id": 1209310391261519872,
+        "id_str": "1209310391261519872",
+        "text": "@JDR1024 Hi Jared, not all Starbucks stores offer Starbucks Rewards or offer the same Star earning or Star redempti\u2026 https://t.co/akfCYRvN6a",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JDR1024",
+                    "name": "Jared",
+                    "id": 288236378,
+                    "id_str": "288236378",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/akfCYRvN6a",
+                    "expanded_url": "https://twitter.com/i/web/status/1209310391261519872",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1209255629199757312,
+        "in_reply_to_status_id_str": "1209255629199757312",
+        "in_reply_to_user_id": 288236378,
+        "in_reply_to_user_id_str": "288236378",
+        "in_reply_to_screen_name": "JDR1024",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "25-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. \n\nNeed support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/dOlpzhHJcS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dOlpzhHJcS",
+                    "expanded_url": "http://sbux.co/givetogether",
+                    "display_url": "sbux.co/givetogether",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11317022,
+    "friends_count": 95202,
+    "listed_count": 27920,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19979,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210191,
+    "lang": null,
+    "status": {
+        "created_at": "Wed Dec 25 03:05:45 +0000 2019",
+        "id": 1209671544617586688,
+        "id_str": "1209671544617586688",
+        "text": "@msnoellee Happy Birthday! \ud83c\udf89",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "msnoellee",
+                    "name": "noelle lee",
+                    "id": 357927440,
+                    "id_str": "357927440",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1209657096326832128,
+        "in_reply_to_status_id_str": "1209657096326832128",
+        "in_reply_to_user_id": 357927440,
+        "in_reply_to_user_id_str": "357927440",
+        "in_reply_to_screen_name": "msnoellee",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "26-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. \n\nNeed support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/dOlpzhHJcS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dOlpzhHJcS",
+                    "expanded_url": "http://sbux.co/givetogether",
+                    "display_url": "sbux.co/givetogether",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11316184,
+    "friends_count": 95195,
+    "listed_count": 27916,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19980,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210200,
+    "lang": null,
+    "status": {
+        "created_at": "Thu Dec 26 03:14:01 +0000 2019",
+        "id": 1210036011100561413,
+        "id_str": "1210036011100561413",
+        "text": "@daltonsedlacek The game's not over! \ud83d\ude42",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "daltonsedlacek",
+                    "name": "Christmas Dalt\ud83c\udf85\ud83c\udffc",
+                    "id": 1852633392,
+                    "id_str": "1852633392",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1209918898419699712,
+        "in_reply_to_status_id_str": "1209918898419699712",
+        "in_reply_to_user_id": 1852633392,
+        "in_reply_to_user_id_str": "1852633392",
+        "in_reply_to_screen_name": "daltonsedlacek",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "26-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. \n\nNeed support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/dOlpzhHJcS",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/dOlpzhHJcS",
+                    "expanded_url": "http://sbux.co/givetogether",
+                    "display_url": "sbux.co/givetogether",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11315700,
+    "friends_count": 95194,
+    "listed_count": 27916,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19979,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210200,
+    "lang": null,
+    "status": {
+        "created_at": "Thu Dec 26 03:14:01 +0000 2019",
+        "id": 1210036011100561413,
+        "id_str": "1210036011100561413",
+        "text": "@daltonsedlacek The game's not over! \ud83d\ude42",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "daltonsedlacek",
+                    "name": "Christmas Dalt\ud83c\udf85\ud83c\udffc",
+                    "id": 1852633392,
+                    "id_str": "1852633392",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1209918898419699712,
+        "in_reply_to_status_id_str": "1209918898419699712",
+        "in_reply_to_user_id": 1852633392,
+        "in_reply_to_user_id_str": "1852633392",
+        "in_reply_to_screen_name": "daltonsedlacek",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "27-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. Need support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/ikw9RPEptl",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ikw9RPEptl",
+                    "expanded_url": "http://StarbucksPopUp.com",
+                    "display_url": "StarbucksPopUp.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11313819,
+    "friends_count": 95194,
+    "listed_count": 27909,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19984,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210317,
+    "lang": null,
+    "status": {
+        "created_at": "Fri Dec 27 12:11:39 +0000 2019",
+        "id": 1210533700208742400,
+        "id_str": "1210533700208742400",
+        "text": "@CRAZY4IRL Locations change every day!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CRAZY4IRL",
+                    "name": "Bridg\u039ett|IRL|OTO misses IRL \ud83d\ude14",
+                    "id": 2181467282,
+                    "id_str": "2181467282",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1210435600261582848,
+        "in_reply_to_status_id_str": "1210435600261582848",
+        "in_reply_to_user_id": 2181467282,
+        "in_reply_to_user_id_str": "2181467282",
+        "in_reply_to_screen_name": "CRAZY4IRL",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "28-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. Need support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/ikw9RPEptl",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ikw9RPEptl",
+                    "expanded_url": "http://StarbucksPopUp.com",
+                    "display_url": "StarbucksPopUp.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11313672,
+    "friends_count": 95190,
+    "listed_count": 27907,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19992,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210396,
+    "lang": null,
+    "status": {
+        "created_at": "Sat Dec 28 00:52:16 +0000 2019",
+        "id": 1210725115387772928,
+        "id_str": "1210725115387772928",
+        "text": "@FreshBasl That's the spirit, Nichole. Enjoy the game!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FreshBasl",
+                    "name": "Nichole",
+                    "id": 1053693689195712512,
+                    "id_str": "1053693689195712512",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1210724263189106688,
+        "in_reply_to_status_id_str": "1210724263189106688",
+        "in_reply_to_user_id": 1053693689195712512,
+        "in_reply_to_user_id_str": "1053693689195712512",
+        "in_reply_to_screen_name": "FreshBasl",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "29-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. Need support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/ikw9RPEptl",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ikw9RPEptl",
+                    "expanded_url": "http://StarbucksPopUp.com",
+                    "display_url": "StarbucksPopUp.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11312787,
+    "friends_count": 95183,
+    "listed_count": 27913,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19987,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210482,
+    "lang": null,
+    "status": {
+        "created_at": "Sun Dec 29 01:59:02 +0000 2019",
+        "id": 1211104306583048193,
+        "id_str": "1211104306583048193",
+        "text": "@honeytreee_ \ud83e\udd1e\ud83e\udd1e\ud83e\udd1e",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "honeytreee_",
+                    "name": "Alli",
+                    "id": 388349134,
+                    "id_str": "388349134",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1211103870832693248,
+        "in_reply_to_status_id_str": "1211103870832693248",
+        "in_reply_to_user_id": 388349134,
+        "in_reply_to_user_id_str": "388349134",
+        "in_reply_to_screen_name": "honeytreee_",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "30-12-2019"
+
+Date: "30-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. Need support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/ikw9RPEptl",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ikw9RPEptl",
+                    "expanded_url": "http://StarbucksPopUp.com",
+                    "display_url": "StarbucksPopUp.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11309175,
+    "friends_count": 95178,
+    "listed_count": 27907,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19985,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210567,
+    "lang": null,
+    "status": {
+        "created_at": "Mon Dec 30 01:01:06 +0000 2019",
+        "id": 1211452115589066759,
+        "id_str": "1211452115589066759",
+        "text": "@charliebabex3 In it to win it! YESSS. \ud83d\udcaa",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "charliebabex3",
+                    "name": "charlie man x3",
+                    "id": 1014688738256007169,
+                    "id_str": "1014688738256007169",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1211450278303666177,
+        "in_reply_to_status_id_str": "1211450278303666177",
+        "in_reply_to_user_id": 1014688738256007169,
+        "in_reply_to_user_id_str": "1014688738256007169",
+        "in_reply_to_screen_name": "charliebabex3",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "31-12-2019"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. Need support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/ikw9RPEptl",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/ikw9RPEptl",
+                    "expanded_url": "http://StarbucksPopUp.com",
+                    "display_url": "StarbucksPopUp.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11307104,
+    "friends_count": 95169,
+    "listed_count": 27893,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19984,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210638,
+    "lang": null,
+    "status": {
+        "created_at": "Tue Dec 31 02:24:00 +0000 2019",
+        "id": 1211835364505088000,
+        "id_str": "1211835364505088000",
+        "text": "@Ameera8697 We welcome you to\u00a0see how many prizes have been awarded, as well as past winners here: https://t.co/TNHhr6ahyh. Best of luck!\u00a0\ud83d\udc9a",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Ameera8697",
+                    "name": "Ameera",
+                    "id": 1087083575445344256,
+                    "id_str": "1087083575445344256",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/TNHhr6ahyh",
+                    "expanded_url": "https://sbux.co/2P5x8Hj",
+                    "display_url": "sbux.co/2P5x8Hj",
+                    "indices": [
+                        99,
+                        122
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1211823312256372736,
+        "in_reply_to_status_id_str": "1211823312256372736",
+        "in_reply_to_user_id": 1087083575445344256,
+        "in_reply_to_user_id_str": "1087083575445344256",
+        "in_reply_to_screen_name": "Ameera8697",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "01-01-2020"
+
+Date: "01-01-2020"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. Need support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/D4Xbi2K4XM",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/D4Xbi2K4XM",
+                    "expanded_url": "http://sbux.co/YearinPictures",
+                    "display_url": "sbux.co/YearinPictures",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11306891,
+    "friends_count": 95173,
+    "listed_count": 27889,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19994,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210750,
+    "lang": null,
+    "status": {
+        "created_at": "Wed Jan 01 02:42:41 +0000 2020",
+        "id": 1212202453786980352,
+        "id_str": "1212202453786980352",
+        "text": "@xo_gxbyy We love it too, Gaby! \ud83d\ude0b",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "xo_gxbyy",
+                    "name": "gaby",
+                    "id": 1147718086130307072,
+                    "id_str": "1147718086130307072",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1212121329014587393,
+        "in_reply_to_status_id_str": "1212121329014587393",
+        "in_reply_to_user_id": 1147718086130307072,
+        "in_reply_to_user_id_str": "1147718086130307072",
+        "in_reply_to_screen_name": "xo_gxbyy",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "02-01-2020"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. Need support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/D4Xbi2K4XM",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/D4Xbi2K4XM",
+                    "expanded_url": "http://sbux.co/YearinPictures",
+                    "display_url": "sbux.co/YearinPictures",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11306712,
+    "friends_count": 95163,
+    "listed_count": 27885,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19994,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210819,
+    "lang": null,
+    "status": {
+        "created_at": "Thu Jan 02 01:48:08 +0000 2020",
+        "id": 1212551115587215362,
+        "id_str": "1212551115587215362",
+        "text": "@ay_phaephae You can order it as a customized Mocha! Just swap half the sauce pumps of dark mocha sauce for white c\u2026 https://t.co/gikLyqGrzd",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ay_phaephae",
+                    "name": "Phaedra",
+                    "id": 134840202,
+                    "id_str": "134840202",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/gikLyqGrzd",
+                    "expanded_url": "https://twitter.com/i/web/status/1212551115587215362",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1212535079043555329,
+        "in_reply_to_status_id_str": "1212535079043555329",
+        "in_reply_to_user_id": 134840202,
+        "in_reply_to_user_id_str": "134840202",
+        "in_reply_to_screen_name": "ay_phaephae",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "03-01-2020"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. Need support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/D4Xbi2K4XM",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/D4Xbi2K4XM",
+                    "expanded_url": "http://sbux.co/YearinPictures",
+                    "display_url": "sbux.co/YearinPictures",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11306225,
+    "friends_count": 95159,
+    "listed_count": 27875,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 19993,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 210894,
+    "lang": null,
+    "status": {
+        "created_at": "Thu Jan 02 22:55:04 +0000 2020",
+        "id": 1212869947233226752,
+        "id_str": "1212869947233226752",
+        "text": "@Realmiss_krysss Let's get you in touch with @StarbucksHelp",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Realmiss_krysss",
+                    "name": "\u2605Miss Krys\u2605",
+                    "id": 68584882,
+                    "id_str": "68584882",
+                    "indices": [
+                        0,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "StarbucksHelp",
+                    "name": "Starbucks Help",
+                    "id": 2917968139,
+                    "id_str": "2917968139",
+                    "indices": [
+                        45,
+                        59
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1212869600947441665,
+        "in_reply_to_status_id_str": "1212869600947441665",
+        "in_reply_to_user_id": 68584882,
+        "in_reply_to_user_id_str": "68584882",
+        "in_reply_to_screen_name": "Realmiss_krysss",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "04-01-2020"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. Need support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/D4Xbi2K4XM",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/D4Xbi2K4XM",
+                    "expanded_url": "http://sbux.co/YearinPictures",
+                    "display_url": "sbux.co/YearinPictures",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11305509,
+    "friends_count": 95153,
+    "listed_count": 27871,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 20001,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 211045,
+    "lang": null,
+    "status": {
+        "created_at": "Sat Jan 04 01:40:08 +0000 2020",
+        "id": 1213273878052474880,
+        "id_str": "1213273878052474880",
+        "text": "@arixnxh Don't.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "arixnxh",
+                    "name": "Ariana",
+                    "id": 344249651,
+                    "id_str": "344249651",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1213267074811940865,
+        "in_reply_to_status_id_str": "1213267074811940865",
+        "in_reply_to_user_id": 344249651,
+        "in_reply_to_user_id_str": "344249651",
+        "in_reply_to_screen_name": "arixnxh",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "04-01-2020"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. Need support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/D4Xbi2K4XM",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/D4Xbi2K4XM",
+                    "expanded_url": "http://sbux.co/YearinPictures",
+                    "display_url": "sbux.co/YearinPictures",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11305511,
+    "friends_count": 95153,
+    "listed_count": 27871,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 20001,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 211050,
+    "lang": null,
+    "status": {
+        "created_at": "Sat Jan 04 02:42:38 +0000 2020",
+        "id": 1213289604087894016,
+        "id_str": "1213289604087894016",
+        "text": "@KathrynSinde Kindness is contagious!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KathrynSinde",
+                    "name": "Katie Sinde",
+                    "id": 1312275894,
+                    "id_str": "1312275894",
+                    "indices": [
+                        0,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1213248604674101249,
+        "in_reply_to_status_id_str": "1213248604674101249",
+        "in_reply_to_user_id": 1312275894,
+        "in_reply_to_user_id_str": "1312275894",
+        "in_reply_to_screen_name": "KathrynSinde",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "04-01-2020"
+{
+    "id": 30973,
+    "id_str": "30973",
+    "name": "Starbucks Coffee",
+    "screen_name": "Starbucks",
+    "location": "Seattle, WA",
+    "profile_location": null,
+    "description": "Inspiring and nurturing the human spirit\u2014one person, one cup, one neighborhood at a time. Need support? We're happy to help at @StarbucksHelp!",
+    "url": "https://t.co/D4Xbi2K4XM",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/D4Xbi2K4XM",
+                    "expanded_url": "http://sbux.co/YearinPictures",
+                    "display_url": "sbux.co/YearinPictures",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 11305511,
+    "friends_count": 95153,
+    "listed_count": 27871,
+    "created_at": "Wed Nov 29 19:19:02 +0000 2006",
+    "favourites_count": 20001,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 211052,
+    "lang": null,
+    "status": {
+        "created_at": "Sat Jan 04 02:53:26 +0000 2020",
+        "id": 1213292323162836994,
+        "id_str": "1213292323162836994",
+        "text": "@oitsangie We have winners every day! You can see how many prizes have been awarded, as well as past winners here: https://t.co/TNHhr6ahyh",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "oitsangie",
+                    "name": "angie// harry\u2019s bitch",
+                    "id": 3325938300,
+                    "id_str": "3325938300",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/TNHhr6ahyh",
+                    "expanded_url": "https://sbux.co/2P5x8Hj",
+                    "display_url": "sbux.co/2P5x8Hj",
+                    "indices": [
+                        115,
+                        138
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://www.lithium.com\" rel=\"nofollow\">Lithium Tech</a>",
+        "in_reply_to_status_id": 1213227391138570240,
+        "in_reply_to_status_id_str": "1213227391138570240",
+        "in_reply_to_user_id": 3325938300,
+        "in_reply_to_user_id_str": "3325938300",
+        "in_reply_to_screen_name": "oitsangie",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109148609218412545/XDVmdQm9_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30973/1573128472",
+    "profile_link_color": "334422",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": false,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}

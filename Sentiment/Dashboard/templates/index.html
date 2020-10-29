@@ -1,0 +1,432 @@
+{% extends 'base.html' %}
+
+
+{% block body %}
+	<br>
+	<table align="center">
+		<tr>
+			<td>
+				<center><img src="../static/images/sb.png" width="200"  /></center>
+			</td>
+			<td>
+				<center><img src="../static/images/tl.jpg"  width="200" /></center>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<br>
+				<h5 class="detailslabelhighlighted">Total Tweets:</h5>
+				<h2 class="detailshighlighted"> 3987</h2><br>
+			</td>
+			<td>
+				<br>
+				<h5 class="detailslabel">Total Tweets:</h5>
+				<h2 class="details"> 58</h2><br>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<br>
+				<h5 class="detailslabelhighlighted">Average Retweet:</h5>
+				<h2 class="detailshighlighted"> 2.424</h2><br>
+			</td>
+			<td>
+				<br>
+				<h5 class="detailslabel">Average Retweet:</h5>
+				<h2 class="details"> 1.621</h2><br>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h5 class="detailslabelhighlighted">Average Favourite:</h5>
+				<h2 class="detailshighlighted">13.281</h2><br>
+			</td>
+			<td>
+				<h5 class="detailslabel">Average Favourite:</h5>
+				<h2 class="details">12.517</h2><br>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h5 class="detailslabel">Advertising : Informative</h5>
+				<h2 class="details">0.11 : 0.89<h2><br>
+			</td>
+			<td>
+				<h5 class="detailslabel">Advertising : Informative</h5>
+				<h2 class="details">0.12 : 0.88<h2><br>
+			</td>
+		</tr>
+		
+	</table>
+	
+	<div style="display:flex;flex-direction:row;justify-content:center">
+	<div id="barchart_values00" style="border-right:1px solid #18191C"></div>
+	<div id="barchart_values0"></div>
+	</div>
+	
+	<table style="margin-top:40px;" align="center">
+		<tr>
+			<td>
+				<img src="../static/images/ud.png"  height='800' width='1000' style="margin-left:80px;"/><br><br>
+			</td>
+		</tr>		
+		
+	</table>
+	
+	<div style="display:flex;flex-direction:row;justify-content:center">
+	<div id="barchart_values" style="border-right:1px solid #18191C;"></div>
+	<div id="barchart_values2"></div>
+	</div>
+	
+	<div style="display:flex;flex-direction:row;justify-content:center">
+	<div id="barchart_values3" style="border-right:1px solid #18191C"></div>
+	<div id="barchart_values4"></div>
+	</div>
+	
+	<div style="display:flex;flex-direction:row;justify-content:center">
+	<div id="barchart_values5" style="border-right:1px solid #18191C"></div>
+	<div id="barchart_values6"></div>
+	</div>
+
+	<div style="display:flex;flex-direction:row;justify-content:center">
+	<div id="barchart_values7" style="border-right:1px solid #18191C"></div>
+	<div id="barchart_values8"></div>
+	</div>
+  
+	<table style="margin-top:40px;" align="center">
+		<tr>
+			<td>
+				<h5>Common keyword by Starbucks in Advertising Tweets</h5>
+				<img src="../static/images/sb_adv.png" height='500' width='500' style="margin-right:80px;"/><br><br>
+			</td>
+			<td>
+				<h5>Common keyword by The Coffee Bean & Tea Leaf in Advertising Tweets</h5>
+				<img src="../static/images/cb_adv.png" height='500' width='500' style="margin-left:80px;"/><br><br>
+			</td>
+		</tr>		
+		
+	</table>
+    
+	<table style="margin-top:40px;" align="center">
+		<tr>
+			<td>
+				<h5>Common keyword by Starbucks in Informative Tweets</h5>
+				<img src="../static/images/sb_inf.png"  height='500' width='500' style="margin-right:80px;"/><br><br>
+			</td>
+			<td>
+				<h5>Common keyword by The Coffee Bean & Tea Leaf in Informative Tweets</h5>
+				<img src="../static/images/cb_inf.png"  height='500' width='500' style="margin-left:80px;"/><br><br>
+			</td>
+		</tr>		
+		
+	</table>
+	
+	<table style="margin-top:40px;" align="center">
+		<tr>
+			<td>
+				<h5>General Common keyword by Starbucks in Tweets</h5>
+				<img src="../static/images/sb_gen.png"  height='500' width='500' style="margin-right:80px;"/><br><br>
+			</td>
+			<td>
+				<h5>General keyword by The Coffee Bean & Tea Leaf in Tweets</h5>
+				<img src="../static/images/cb_gen.png"  height='500' width='500' style="margin-left:80px;"/><br><br>
+			</td>
+		</tr>		
+		
+	</table>
+	
+	</table>
+	
+
+
+	
+	
+
+{%endblock%}
+
+{% block script %}
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+
+    google.charts.load("current", {packages:["corechart"]});
+    google.charts.setOnLoadCallback(drawChart00);
+    google.charts.setOnLoadCallback(drawChart0);
+	google.charts.setOnLoadCallback(drawChart);
+    google.charts.setOnLoadCallback(drawChart2);
+	google.charts.setOnLoadCallback(drawChart3);
+	google.charts.setOnLoadCallback(drawChart4);
+	google.charts.setOnLoadCallback(drawChart5);
+	google.charts.setOnLoadCallback(drawChart6);
+	google.charts.setOnLoadCallback(drawChart7);
+
+	function drawChart00() {
+      var data = google.visualization.arrayToDataTable( [
+	  ['Day', 'Followers Count',],
+		['12/18/2019',11319165],
+		["19/12/2019","11318959"],
+		["20/12/2019","11318842"],
+		["21/12/2019","11318432"],
+		["22/12/2019","11318120"],
+		["23/12/2019","11317675"],
+		["24/12/2019","11317333"],
+		["25/12/2019","11316983"],
+		["26/12/2019","11316184"],
+		["27/12/2019","11313819"],
+		["28/12/2019","11313672"],
+		["29/12/2019","11312787"],
+		["30/12/2019","11309175"],
+		["31/12/2019","11307104"],
+		["1/1/2020","11306891"],
+		["2/1/2020","11306712"],
+		["3/1/2020","11306225"],
+		["4/1/2020","11305511"],
+
+	] );
+
+      var options = {
+        title: 'Daily Followers Count for Starbucks(-0.1206%)',
+		width: 830,
+        height: 400,
+		seriesType: 'line',
+		vAxis: { ticks: [11305000,11310000,11315000,11320000] },
+		series: {
+            0: { color: 'blue' },
+          }
+      };
+
+
+      var chart = new google.visualization.ComboChart(document.getElementById("barchart_values00"));
+      chart.draw(data, options);
+    }
+	
+	function drawChart0() {
+      var data = google.visualization.arrayToDataTable( [
+	  ['Day', 'Followers Count',],
+		['12/18/2019',177687],
+		["19/12/2019","177685"],
+		["20/12/2019","177684"],
+		["21/12/2019","177680"],
+		["22/12/2019","177681"],
+		["23/12/2019","177678"],
+		["24/12/2019","177677"],
+		["25/12/2019","177673"],
+		["26/12/2019","177669"],
+		["27/12/2019","177647"],
+		["28/12/2019","177643"],
+		["29/12/2019","177633"],
+		["30/12/2019","177607"],
+		["31/12/2019","177582"],
+		["1/1/2020","177578"],
+		["2/1/2020","177575"],
+		["3/1/2020","177572"],
+		["4/1/2020","177557"],
+		
+
+	] );
+
+      var options = {
+        title: 'Daily Followers Count for The Coffee Bean & Tea Leaf(-0.0732%)',
+		width: 830,
+        height: 400,
+		seriesType: 'line',
+		vAxis: { ticks: [177550,177600,177650,177700] },
+		series: {
+            0: { color: 'blue' },
+          }
+      };
+
+
+      var chart = new google.visualization.ComboChart(document.getElementById("barchart_values0"));
+      chart.draw(data, options);
+    }
+	
+    function drawChart() {
+      var data = google.visualization.arrayToDataTable( [
+		['Weeks', 'Advertising','Informative', "Total", {role: 'annotation'}],
+		['Week 1 (0.10 : 0.90)', 104,  956, 1060, 1060],
+		['Week 2 (0.12 : 0.88)', 110,  791, 901, 901],
+		['Week 3 (0.09 : 0.91)', 82, 787, 869, 869],
+		['Week 4 (0.14 : 0.86)', 81, 502, 583, 583],
+		['Week 5 (0.1 : 0.9)', 58, 516, 574, 574]
+		
+	] );
+
+      var options = {
+        title: 'Ratio of Advertising to Informative for Starbucks',
+		width: 830,
+        height: 400,
+		seriesType:'bars',
+		vAxis: { ticks: [0,200,400,600,800,1000,1200] },
+		isStacked:true,
+		series: {
+        2: {
+            color: 'transparent',
+            type: "bar",
+            targetAxisIndex: 1,
+            visibleInLegend: false
+			}
+		},
+		annotations: {
+            textStyle: {
+                color: '#000',
+                fontSize: 12,
+                bold: true
+            },
+            highContrast: true,
+            alwaysOutside: true
+        },
+
+      };
+
+
+      var chart = new google.visualization.ComboChart(document.getElementById("barchart_values"));
+      chart.draw(data, options);
+    }
+	
+	function drawChart2() {
+      var data = google.visualization.arrayToDataTable( [
+	   ['Months', 'Advertising', 'Informative', "Total", {role: 'annotation'}],
+        ['Week 1 (0.13 : 0.87)', 2,  13, 15, 15],
+		['Week 2 (0.20 : 0.80)', 2,  8, 10, 10],
+		['Week 3 (0.13 : 0.87)', 2, 13, 15, 15],
+		['Week 4 (0.12 : 0.88)', 1, 7, 8, 8],
+		['Week 5 (0.0 : 1.0)', 0, 10, 10, 10]
+
+	] );
+
+      var options = {
+        title: 'Ratio of Advertising to Informative for The Coffee Bean& Tea Leaf',
+		width: 830,
+        height: 400,
+		seriesType:'bars',
+		vAxis: { ticks: [0,3,6,9,12,15,18] },
+		isStacked:true,
+		series: {
+        2: {
+            color: 'transparent',
+            type: "bar",
+            targetAxisIndex: 1,
+            visibleInLegend: false
+			}
+		},
+		annotations: {
+            textStyle: {
+                color: '#000',
+                fontSize: 12,
+                bold: true
+            },
+            highContrast: true,
+            alwaysOutside: true
+        },
+      };
+
+
+      var chart = new google.visualization.ComboChart(document.getElementById("barchart_values2"));
+      chart.draw(data, options);
+    }
+	
+	function drawChart3() {
+      var data = google.visualization.arrayToDataTable( [
+		['Weeks', 'Overall Engagement',{ role: 'annotation' },'Advertising Engagement','Informative Engagement',],
+		['Week 1', 21494, '21494', 4988,16506 ],
+		['Week 2', 11413, '11413', 5575,5838 ],
+		['Week 3', 4689,'4689',1194, 3495],
+		['Week 4', 6109, '6109', 3127, 2982],
+		['Week 5', 18910, '18910', 2617, 16293],
+
+	] );
+
+      var options = {
+        title: 'Engagement Statistics for Starbucks',
+		width: 830,
+        height: 400,
+		seriesType:'line',
+		vAxis: { ticks: [0,3000,6000,9000,12000,15000,18000] },
+		series: {
+            0: { color: 'green' },
+            1: { color: 'blue' },
+            2: { color: 'red' },
+          }
+	}
+      var chart = new google.visualization.ComboChart(document.getElementById("barchart_values3"));
+      chart.draw(data, options);
+    }
+
+	function drawChart4() {
+      var data = google.visualization.arrayToDataTable( [
+	  ['Weeks', 'Overall Engagement', { role: 'annotation' },'Advertising Engagement','Informative Engagement',],
+		['Week 1',267,'267', 59,208],
+		['Week 2',86,'86', 31,55],
+		['Week 3',204,'204', 52,152],
+		['Week 4',111,'111', 6,105],
+		['Week 5',152,'152', 0,152],
+
+	] );
+
+      var options = {
+        title: 'Engagement Statistics for The Coffee Bean & Tea Leaf',
+		width: 830,
+        height: 400,
+		seriesType: 'line',
+		vAxis: { ticks: [0,50,100,150,200,250] },
+		series: {
+            0: { color: 'green' },
+            1: { color: 'blue' },
+            2: { color: 'red' },
+          }
+      };
+
+
+      var chart = new google.visualization.ComboChart(document.getElementById("barchart_values4"));
+      chart.draw(data, options);
+    }
+	
+	function drawChart5() {
+      var data = google.visualization.arrayToDataTable( [
+	  ['Time','Advertising Engagement','Informative Engagement'],
+	  ['Morning',92,609],
+	  ['Afternoon',7,68],
+	  ['Night',11739,32461],
+	  ['Midnight',5663,11976],
+		
+
+	] );
+
+      var options = {
+        title: 'Total Engagement based on Tweeting Time for Starbucks',
+		width: 830,
+        height: 400,
+		seriesType: 'bars',
+      };
+
+
+      var chart = new google.visualization.ColumnChart(document.getElementById("barchart_values5"));
+      chart.draw(data, options);
+    }
+	
+	function drawChart6() {
+      var data = google.visualization.arrayToDataTable( [
+	  ['Time','Advertising Engagement','Informative Engagement'],
+	  ['Morning',0,32],
+	  ['Afternoon',0,1],
+	  ['Night',96,515],
+	  ['Midnight',52,124],
+		
+
+	] );
+
+      var options = {
+        title: 'Total Engagement based on Tweeting Time for The Coffee Bean & Tea Leaf',
+		width: 830,
+        height: 400,
+		seriesType: 'bars',
+      };
+
+
+      var chart = new google.visualization.ColumnChart(document.getElementById("barchart_values6"));
+      chart.draw(data, options);
+    }
+	
+  </script>
+
+{%endblock%}

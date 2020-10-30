@@ -1,0 +1,3538 @@
+
+Date: "18-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177687,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9125,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17940,
+    "lang": null,
+    "status": {
+        "created_at": "Tue Dec 17 17:00:34 +0000 2019",
+        "id": 1206982530353774592,
+        "id_str": "1206982530353774592",
+        "text": "May your holiday season be filled with peace, love, cheer, and joy. https://t.co/SckPDwn7mA",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1206982520690106368,
+                    "id_str": "1206982520690106368",
+                    "indices": [
+                        68,
+                        91
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EMAQNSvW4AAVnFx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMAQNSvW4AAVnFx.jpg",
+                    "url": "https://t.co/SckPDwn7mA",
+                    "display_url": "pic.twitter.com/SckPDwn7mA",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1206982530353774592/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {}
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1206982520690106368,
+                    "id_str": "1206982520690106368",
+                    "indices": [
+                        68,
+                        91
+                    ],
+                    "media_url": "http://pbs.twimg.com/tweet_video_thumb/EMAQNSvW4AAVnFx.jpg",
+                    "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMAQNSvW4AAVnFx.jpg",
+                    "url": "https://t.co/SckPDwn7mA",
+                    "display_url": "pic.twitter.com/SckPDwn7mA",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1206982530353774592/photo/1",
+                    "type": "animated_gif",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            1,
+                            1
+                        ],
+                        "variants": [
+                            {
+                                "bitrate": 0,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/tweet_video/EMAQNSvW4AAVnFx.mp4"
+                            }
+                        ]
+                    },
+                    "features": {}
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "19-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177685,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9129,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17943,
+    "lang": null,
+    "status": {
+        "created_at": "Thu Dec 19 03:43:31 +0000 2019",
+        "id": 1207506720827686913,
+        "id_str": "1207506720827686913",
+        "text": "@KingBach @Postmates @RuJohnNation Always happy to support our community.  Happy Holidays.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "KingBach",
+                    "name": "King Bach",
+                    "id": 64929124,
+                    "id_str": "64929124",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "Postmates",
+                    "name": "Postmates",
+                    "id": 276254736,
+                    "id_str": "276254736",
+                    "indices": [
+                        10,
+                        20
+                    ]
+                },
+                {
+                    "screen_name": "RuJohnNation",
+                    "name": "RuJohn Foundation",
+                    "id": 1364912894,
+                    "id_str": "1364912894",
+                    "indices": [
+                        21,
+                        34
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1207456193939005440,
+        "in_reply_to_status_id_str": "1207456193939005440",
+        "in_reply_to_user_id": 64929124,
+        "in_reply_to_user_id_str": "64929124",
+        "in_reply_to_screen_name": "KingBach",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "20-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177684,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9129,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17944,
+    "lang": null,
+    "status": {
+        "created_at": "Thu Dec 19 17:00:31 +0000 2019",
+        "id": 1207707291996348416,
+        "id_str": "1207707291996348416",
+        "text": "I can't eat another bite... Oh look, Apple Pie! https://t.co/X6OeJN6jkf",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1207707285247680512,
+                    "id_str": "1207707285247680512",
+                    "indices": [
+                        48,
+                        71
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMKjYJHW4AA6xtC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMKjYJHW4AA6xtC.jpg",
+                    "url": "https://t.co/X6OeJN6jkf",
+                    "display_url": "pic.twitter.com/X6OeJN6jkf",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1207707291996348416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 940,
+                                    "y": 535,
+                                    "h": 66,
+                                    "w": 66
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 940,
+                                    "y": 535,
+                                    "h": 66,
+                                    "w": 66
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 591,
+                                    "y": 336,
+                                    "h": 41,
+                                    "w": 41
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 940,
+                                    "y": 535,
+                                    "h": 66,
+                                    "w": 66
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1207707285247680512,
+                    "id_str": "1207707285247680512",
+                    "indices": [
+                        48,
+                        71
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMKjYJHW4AA6xtC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMKjYJHW4AA6xtC.jpg",
+                    "url": "https://t.co/X6OeJN6jkf",
+                    "display_url": "pic.twitter.com/X6OeJN6jkf",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1207707291996348416/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 940,
+                                    "y": 535,
+                                    "h": 66,
+                                    "w": 66
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 940,
+                                    "y": 535,
+                                    "h": 66,
+                                    "w": 66
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 591,
+                                    "y": 336,
+                                    "h": 41,
+                                    "w": 41
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 940,
+                                    "y": 535,
+                                    "h": 66,
+                                    "w": 66
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "21-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177680,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9132,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17946,
+    "lang": null,
+    "status": {
+        "created_at": "Fri Dec 20 17:00:35 +0000 2019",
+        "id": 1208069698241409025,
+        "id_str": "1208069698241409025",
+        "text": "How do you Cookie Butter? Hot, Iced, or Ice Blended\u00ae drink? https://t.co/gKln1AUGKd",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1208069690519674881,
+                    "id_str": "1208069690519674881",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMPs-59XYAExEfZ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMPs-59XYAExEfZ.jpg",
+                    "url": "https://t.co/gKln1AUGKd",
+                    "display_url": "pic.twitter.com/gKln1AUGKd",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1208069698241409025/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 52,
+                                    "y": 495,
+                                    "h": 28,
+                                    "w": 28
+                                },
+                                {
+                                    "x": 360,
+                                    "y": 470,
+                                    "h": 56,
+                                    "w": 56
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 92,
+                                    "y": 875,
+                                    "h": 50,
+                                    "w": 50
+                                },
+                                {
+                                    "x": 637,
+                                    "y": 830,
+                                    "h": 100,
+                                    "w": 100
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 92,
+                                    "y": 875,
+                                    "h": 50,
+                                    "w": 50
+                                },
+                                {
+                                    "x": 637,
+                                    "y": 830,
+                                    "h": 100,
+                                    "w": 100
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 92,
+                                    "y": 875,
+                                    "h": 50,
+                                    "w": 50
+                                },
+                                {
+                                    "x": 637,
+                                    "y": 830,
+                                    "h": 100,
+                                    "w": 100
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1208069690519674881,
+                    "id_str": "1208069690519674881",
+                    "indices": [
+                        60,
+                        83
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMPs-59XYAExEfZ.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMPs-59XYAExEfZ.jpg",
+                    "url": "https://t.co/gKln1AUGKd",
+                    "display_url": "pic.twitter.com/gKln1AUGKd",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1208069698241409025/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 52,
+                                    "y": 495,
+                                    "h": 28,
+                                    "w": 28
+                                },
+                                {
+                                    "x": 360,
+                                    "y": 470,
+                                    "h": 56,
+                                    "w": 56
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 92,
+                                    "y": 875,
+                                    "h": 50,
+                                    "w": 50
+                                },
+                                {
+                                    "x": 637,
+                                    "y": 830,
+                                    "h": 100,
+                                    "w": 100
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 92,
+                                    "y": 875,
+                                    "h": 50,
+                                    "w": 50
+                                },
+                                {
+                                    "x": 637,
+                                    "y": 830,
+                                    "h": 100,
+                                    "w": 100
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 92,
+                                    "y": 875,
+                                    "h": 50,
+                                    "w": 50
+                                },
+                                {
+                                    "x": 637,
+                                    "y": 830,
+                                    "h": 100,
+                                    "w": 100
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 27,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "22-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177681,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9135,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17949,
+    "lang": null,
+    "status": {
+        "created_at": "Sat Dec 21 17:50:36 +0000 2019",
+        "id": 1208444672000983040,
+        "id_str": "1208444672000983040",
+        "text": "@richdemuro You are one smart cookie \ud83d\udc4d",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "richdemuro",
+                    "name": "Rich DeMuro",
+                    "id": 6484412,
+                    "id_str": "6484412",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1208173349391618049,
+        "in_reply_to_status_id_str": "1208173349391618049",
+        "in_reply_to_user_id": 6484412,
+        "in_reply_to_user_id_str": "6484412",
+        "in_reply_to_screen_name": "richdemuro",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "23-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177678,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9136,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17954,
+    "lang": null,
+    "status": {
+        "created_at": "Mon Dec 23 00:57:11 +0000 2019",
+        "id": 1208914414646247424,
+        "id_str": "1208914414646247424",
+        "text": "@ayogist Happy Birthday! We definitely want to get this corrected.  Our team will be on live chat tomorrow, 9am - 4\u2026 https://t.co/9jS9wEJlmo",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ayogist",
+                    "name": "joni",
+                    "id": 25176517,
+                    "id_str": "25176517",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/9jS9wEJlmo",
+                    "expanded_url": "https://twitter.com/i/web/status/1208914414646247424",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": 1208857318177169408,
+        "in_reply_to_status_id_str": "1208857318177169408",
+        "in_reply_to_user_id": 25176517,
+        "in_reply_to_user_id_str": "25176517",
+        "in_reply_to_screen_name": "ayogist",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "23-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177679,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9136,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17954,
+    "lang": null,
+    "status": {
+        "created_at": "Mon Dec 23 00:57:11 +0000 2019",
+        "id": 1208914414646247424,
+        "id_str": "1208914414646247424",
+        "text": "@ayogist Happy Birthday! We definitely want to get this corrected.  Our team will be on live chat tomorrow, 9am - 4\u2026 https://t.co/9jS9wEJlmo",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ayogist",
+                    "name": "joni",
+                    "id": 25176517,
+                    "id_str": "25176517",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/9jS9wEJlmo",
+                    "expanded_url": "https://twitter.com/i/web/status/1208914414646247424",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": 1208857318177169408,
+        "in_reply_to_status_id_str": "1208857318177169408",
+        "in_reply_to_user_id": 25176517,
+        "in_reply_to_user_id_str": "25176517",
+        "in_reply_to_screen_name": "ayogist",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "23-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177678,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9136,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17954,
+    "lang": null,
+    "status": {
+        "created_at": "Mon Dec 23 00:57:11 +0000 2019",
+        "id": 1208914414646247424,
+        "id_str": "1208914414646247424",
+        "text": "@ayogist Happy Birthday! We definitely want to get this corrected.  Our team will be on live chat tomorrow, 9am - 4\u2026 https://t.co/9jS9wEJlmo",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ayogist",
+                    "name": "joni",
+                    "id": 25176517,
+                    "id_str": "25176517",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/9jS9wEJlmo",
+                    "expanded_url": "https://twitter.com/i/web/status/1208914414646247424",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": 1208857318177169408,
+        "in_reply_to_status_id_str": "1208857318177169408",
+        "in_reply_to_user_id": 25176517,
+        "in_reply_to_user_id_str": "25176517",
+        "in_reply_to_screen_name": "ayogist",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "24-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177677,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9136,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17955,
+    "lang": null,
+    "status": {
+        "created_at": "Mon Dec 23 17:35:02 +0000 2019",
+        "id": 1209165532647346179,
+        "id_str": "1209165532647346179",
+        "text": "A gift for when you're in a pinch. Send an e-gift card through The Coffee Bean Rewards\u00ae app. https://t.co/woGixBfq96",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1209165524984356866,
+                    "id_str": "1209165524984356866",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMfRo3dXYAIGrhd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMfRo3dXYAIGrhd.jpg",
+                    "url": "https://t.co/woGixBfq96",
+                    "display_url": "pic.twitter.com/woGixBfq96",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1209165532647346179/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 473,
+                                    "y": 664,
+                                    "h": 58,
+                                    "w": 58
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 473,
+                                    "y": 664,
+                                    "h": 58,
+                                    "w": 58
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 297,
+                                    "y": 418,
+                                    "h": 36,
+                                    "w": 36
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 473,
+                                    "y": 664,
+                                    "h": 58,
+                                    "w": 58
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1209165524984356866,
+                    "id_str": "1209165524984356866",
+                    "indices": [
+                        93,
+                        116
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMfRo3dXYAIGrhd.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMfRo3dXYAIGrhd.jpg",
+                    "url": "https://t.co/woGixBfq96",
+                    "display_url": "pic.twitter.com/woGixBfq96",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1209165532647346179/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 473,
+                                    "y": 664,
+                                    "h": 58,
+                                    "w": 58
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 473,
+                                    "y": 664,
+                                    "h": 58,
+                                    "w": 58
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 297,
+                                    "y": 418,
+                                    "h": 36,
+                                    "w": 36
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 473,
+                                    "y": 664,
+                                    "h": 58,
+                                    "w": 58
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "25-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177673,
+    "friends_count": 76,
+    "listed_count": 1782,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9135,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17957,
+    "lang": null,
+    "status": {
+        "created_at": "Wed Dec 25 06:03:53 +0000 2019",
+        "id": 1209716375159050241,
+        "id_str": "1209716375159050241",
+        "text": "@zeyma1998 We are sorry to hear about your experience. At your convenience, please reach out to our Guest Relations\u2026 https://t.co/AxbDvUZeec",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "zeyma1998",
+                    "name": "zeyma \ud83e\udd40",
+                    "id": 263024694,
+                    "id_str": "263024694",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/AxbDvUZeec",
+                    "expanded_url": "https://twitter.com/i/web/status/1209716375159050241",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1209711588564852736,
+        "in_reply_to_status_id_str": "1209711588564852736",
+        "in_reply_to_user_id": 263024694,
+        "in_reply_to_user_id_str": "263024694",
+        "in_reply_to_screen_name": "zeyma1998",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "26-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177669,
+    "friends_count": 76,
+    "listed_count": 1782,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9134,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17958,
+    "lang": null,
+    "status": {
+        "created_at": "Wed Dec 25 17:00:30 +0000 2019",
+        "id": 1209881615981260800,
+        "id_str": "1209881615981260800",
+        "text": "May your day be merry and bright. Happy Holidays from all of us at The Coffee Bean &amp; Tea Leaf! \ud83c\udf84 https://t.co/PjR5pWOErT",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1209881609266221056,
+                    "id_str": "1209881609266221056",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMpc6dSXUAApmpT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMpc6dSXUAApmpT.jpg",
+                    "url": "https://t.co/PjR5pWOErT",
+                    "display_url": "pic.twitter.com/PjR5pWOErT",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1209881615981260800/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "orig": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1209881609266221056,
+                    "id_str": "1209881609266221056",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMpc6dSXUAApmpT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMpc6dSXUAApmpT.jpg",
+                    "url": "https://t.co/PjR5pWOErT",
+                    "display_url": "pic.twitter.com/PjR5pWOErT",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1209881615981260800/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "orig": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 31,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "27-12-2019"
+
+Date: "27-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177647,
+    "friends_count": 76,
+    "listed_count": 1780,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9133,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17958,
+    "lang": null,
+    "status": {
+        "created_at": "Wed Dec 25 17:00:30 +0000 2019",
+        "id": 1209881615981260800,
+        "id_str": "1209881615981260800",
+        "text": "May your day be merry and bright. Happy Holidays from all of us at The Coffee Bean &amp; Tea Leaf! \ud83c\udf84 https://t.co/PjR5pWOErT",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1209881609266221056,
+                    "id_str": "1209881609266221056",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMpc6dSXUAApmpT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMpc6dSXUAApmpT.jpg",
+                    "url": "https://t.co/PjR5pWOErT",
+                    "display_url": "pic.twitter.com/PjR5pWOErT",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1209881615981260800/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "orig": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1209881609266221056,
+                    "id_str": "1209881609266221056",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMpc6dSXUAApmpT.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMpc6dSXUAApmpT.jpg",
+                    "url": "https://t.co/PjR5pWOErT",
+                    "display_url": "pic.twitter.com/PjR5pWOErT",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1209881615981260800/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "orig": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "medium": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "28-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177643,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9133,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17959,
+    "lang": null,
+    "status": {
+        "created_at": "Fri Dec 27 17:00:33 +0000 2019",
+        "id": 1210606403594752000,
+        "id_str": "1210606403594752000",
+        "text": "A moment of calm after the bustle of the season. https://t.co/PULz3Z68V6",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1210606399316746241,
+                    "id_str": "1210606399316746241",
+                    "indices": [
+                        49,
+                        72
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMzwGyoW4AEbrnB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMzwGyoW4AEbrnB.jpg",
+                    "url": "https://t.co/PULz3Z68V6",
+                    "display_url": "pic.twitter.com/PULz3Z68V6",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1210606403594752000/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 246,
+                                    "y": 164,
+                                    "h": 76,
+                                    "w": 76
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 246,
+                                    "y": 164,
+                                    "h": 76,
+                                    "w": 76
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 154,
+                                    "y": 103,
+                                    "h": 47,
+                                    "w": 47
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 246,
+                                    "y": 164,
+                                    "h": 76,
+                                    "w": 76
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1210606399316746241,
+                    "id_str": "1210606399316746241",
+                    "indices": [
+                        49,
+                        72
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EMzwGyoW4AEbrnB.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EMzwGyoW4AEbrnB.jpg",
+                    "url": "https://t.co/PULz3Z68V6",
+                    "display_url": "pic.twitter.com/PULz3Z68V6",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1210606403594752000/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 246,
+                                    "y": 164,
+                                    "h": 76,
+                                    "w": 76
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 246,
+                                    "y": 164,
+                                    "h": 76,
+                                    "w": 76
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 154,
+                                    "y": 103,
+                                    "h": 47,
+                                    "w": 47
+                                }
+                            ]
+                        },
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 246,
+                                    "y": 164,
+                                    "h": 76,
+                                    "w": 76
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "29-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177633,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9133,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17960,
+    "lang": null,
+    "status": {
+        "created_at": "Sat Dec 28 18:29:43 +0000 2019",
+        "id": 1210991232530432002,
+        "id_str": "1210991232530432002",
+        "text": "@marcoajpolo Glad you enjoyed it!",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "marcoajpolo",
+                    "name": "Marco Jim\u00e9nez",
+                    "id": 90298112,
+                    "id_str": "90298112",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": 1210828215242985475,
+        "in_reply_to_status_id_str": "1210828215242985475",
+        "in_reply_to_user_id": 90298112,
+        "in_reply_to_user_id_str": "90298112",
+        "in_reply_to_screen_name": "marcoajpolo",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "30-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177607,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9133,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17961,
+    "lang": null,
+    "status": {
+        "created_at": "Sun Dec 29 17:00:11 +0000 2019",
+        "id": 1211331086166441985,
+        "id_str": "1211331086166441985",
+        "text": "Add a little pep-permint in your step. \n\nPictured Beverage: Iced Peppermint Mocha Latte https://t.co/gQPqzP7J9W",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1211331077660401672,
+                    "id_str": "1211331077660401672",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EM-DMn1W4AgEpjh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EM-DMn1W4AgEpjh.jpg",
+                    "url": "https://t.co/gQPqzP7J9W",
+                    "display_url": "pic.twitter.com/gQPqzP7J9W",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1211331086166441985/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1211331077660401672,
+                    "id_str": "1211331077660401672",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EM-DMn1W4AgEpjh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EM-DMn1W4AgEpjh.jpg",
+                    "url": "https://t.co/gQPqzP7J9W",
+                    "display_url": "pic.twitter.com/gQPqzP7J9W",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1211331086166441985/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 29,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "31-12-2019"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177582,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9133,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17961,
+    "lang": null,
+    "status": {
+        "created_at": "Sun Dec 29 17:00:11 +0000 2019",
+        "id": 1211331086166441985,
+        "id_str": "1211331086166441985",
+        "text": "Add a little pep-permint in your step. \n\nPictured Beverage: Iced Peppermint Mocha Latte https://t.co/gQPqzP7J9W",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1211331077660401672,
+                    "id_str": "1211331077660401672",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EM-DMn1W4AgEpjh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EM-DMn1W4AgEpjh.jpg",
+                    "url": "https://t.co/gQPqzP7J9W",
+                    "display_url": "pic.twitter.com/gQPqzP7J9W",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1211331086166441985/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1211331077660401672,
+                    "id_str": "1211331077660401672",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EM-DMn1W4AgEpjh.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EM-DMn1W4AgEpjh.jpg",
+                    "url": "https://t.co/gQPqzP7J9W",
+                    "display_url": "pic.twitter.com/gQPqzP7J9W",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1211331086166441985/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 34,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "01-01-2020"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177578,
+    "friends_count": 76,
+    "listed_count": 1780,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9132,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17964,
+    "lang": null,
+    "status": {
+        "created_at": "Tue Dec 31 23:20:02 +0000 2019",
+        "id": 1212151455043461120,
+        "id_str": "1212151455043461120",
+        "text": "@elishayaffe Supporter of dreams and possibilities since 1963. \ud83d\udc9c",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "elishayaffe",
+                    "name": "E l i s h a",
+                    "id": 17601206,
+                    "id_str": "17601206",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": 1212118074284920832,
+        "in_reply_to_status_id_str": "1212118074284920832",
+        "in_reply_to_user_id": 17601206,
+        "in_reply_to_user_id_str": "17601206",
+        "in_reply_to_screen_name": "elishayaffe",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "02-01-2020"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177575,
+    "friends_count": 76,
+    "listed_count": 1780,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9130,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17965,
+    "lang": null,
+    "status": {
+        "created_at": "Wed Jan 01 17:00:30 +0000 2020",
+        "id": 1212418330755321857,
+        "id_str": "1212418330755321857",
+        "text": "A good year starts with a great cup of coffee. Happy New Year! https://t.co/zkCyXAYadf",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1212418328268025856,
+                    "id_str": "1212418328268025856",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ENNgC7-WsAA_8AX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ENNgC7-WsAA_8AX.jpg",
+                    "url": "https://t.co/zkCyXAYadf",
+                    "display_url": "pic.twitter.com/zkCyXAYadf",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1212418330755321857/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 335,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 335,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 600,
+                            "h": 335,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1212418328268025856,
+                    "id_str": "1212418328268025856",
+                    "indices": [
+                        63,
+                        86
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ENNgC7-WsAA_8AX.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ENNgC7-WsAA_8AX.jpg",
+                    "url": "https://t.co/zkCyXAYadf",
+                    "display_url": "pic.twitter.com/zkCyXAYadf",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1212418330755321857/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 335,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 600,
+                            "h": 335,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 600,
+                            "h": 335,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "medium": {
+                            "faces": []
+                        },
+                        "small": {
+                            "faces": []
+                        },
+                        "orig": {
+                            "faces": []
+                        },
+                        "large": {
+                            "faces": []
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 35,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "03-01-2020"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177572,
+    "friends_count": 76,
+    "listed_count": 1781,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9131,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17966,
+    "lang": null,
+    "status": {
+        "created_at": "Thu Jan 02 17:00:31 +0000 2020",
+        "id": 1212780722286669824,
+        "id_str": "1212780722286669824",
+        "text": "Cold winter days call for hot tea and a warm bath. https://t.co/O6AXQQYwBA",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1212780714036514816,
+                    "id_str": "1212780714036514816",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ENSpokKXUAANkQv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ENSpokKXUAANkQv.jpg",
+                    "url": "https://t.co/O6AXQQYwBA",
+                    "display_url": "pic.twitter.com/O6AXQQYwBA",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1212780722286669824/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 2000,
+                            "h": 2000,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 1412,
+                                    "y": 716,
+                                    "h": 375,
+                                    "w": 375
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 1412,
+                                    "y": 716,
+                                    "h": 375,
+                                    "w": 375
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 847,
+                                    "y": 429,
+                                    "h": 225,
+                                    "w": 225
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 480,
+                                    "y": 243,
+                                    "h": 127,
+                                    "w": 127
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1212780714036514816,
+                    "id_str": "1212780714036514816",
+                    "indices": [
+                        51,
+                        74
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ENSpokKXUAANkQv.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ENSpokKXUAANkQv.jpg",
+                    "url": "https://t.co/O6AXQQYwBA",
+                    "display_url": "pic.twitter.com/O6AXQQYwBA",
+                    "expanded_url": "https://twitter.com/TheCoffeeBean/status/1212780722286669824/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 2000,
+                            "h": 2000,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "features": {
+                        "large": {
+                            "faces": [
+                                {
+                                    "x": 1412,
+                                    "y": 716,
+                                    "h": 375,
+                                    "w": 375
+                                }
+                            ]
+                        },
+                        "orig": {
+                            "faces": [
+                                {
+                                    "x": 1412,
+                                    "y": 716,
+                                    "h": 375,
+                                    "w": 375
+                                }
+                            ]
+                        },
+                        "medium": {
+                            "faces": [
+                                {
+                                    "x": 847,
+                                    "y": 429,
+                                    "h": 225,
+                                    "w": 225
+                                }
+                            ]
+                        },
+                        "small": {
+                            "faces": [
+                                {
+                                    "x": 480,
+                                    "y": 243,
+                                    "h": 127,
+                                    "w": 127
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
+Date: "04-01-2020"
+{
+    "id": 17967491,
+    "id_str": "17967491",
+    "name": "The Coffee Bean",
+    "screen_name": "TheCoffeeBean",
+    "location": "Los Angeles, CA",
+    "profile_location": null,
+    "description": "Born & Brewed in California since 1963. \nWe love coffee, tea and tweeting! All brewed fresh from our Home Office in LA.",
+    "url": "https://t.co/TNhHyOXRJe",
+    "entities": {
+        "url": {
+            "urls": [
+                {
+                    "url": "https://t.co/TNhHyOXRJe",
+                    "expanded_url": "http://www.coffeebean.com",
+                    "display_url": "coffeebean.com",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ]
+        },
+        "description": {
+            "urls": []
+        }
+    },
+    "protected": false,
+    "followers_count": 177557,
+    "friends_count": 76,
+    "listed_count": 1780,
+    "created_at": "Mon Dec 08 17:40:14 +0000 2008",
+    "favourites_count": 9133,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 17971,
+    "lang": null,
+    "status": {
+        "created_at": "Fri Jan 03 17:00:31 +0000 2020",
+        "id": 1213143111356035072,
+        "id_str": "1213143111356035072",
+        "text": "Sometimes having coffee with your best friend is all you need.  Tag that BFF.\n\nPictured Beverages: Matcha Iced Latt\u2026 https://t.co/bavsWYeyV5",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/bavsWYeyV5",
+                    "expanded_url": "https://twitter.com/i/web/status/1213143111356035072",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 27,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FA743E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705145224871936/EgPtlFnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17967491/1572597394",
+    "profile_link_color": "512D6D",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_text_color": "0C3E53",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "can_media_tag": true,
+    "followed_by": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+}
